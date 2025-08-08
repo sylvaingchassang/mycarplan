@@ -1,0 +1,21 @@
+title: Mon Plan Auto
+description: La transition énergétique dans l'automobile, plus efficace, moins douloureux
+baseurl: ""
+url: "https://www.monplanauto.org"
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+exclude:
+  - node_modules
+  - vendor
+  - Gemfile
+  - Gemfile.lock
+  - package.json
+  - package-lock.json
+  - tailwind.config.js
+  - postcss.config.js
+  - README.md
+

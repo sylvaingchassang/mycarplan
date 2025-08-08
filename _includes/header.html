@@ -1,0 +1,63 @@
+<header class="mb-10 w-full">
+  <div class="container mx-auto flex justify-between items-start mb-6">
+
+    <!-- Flush-left group -->
+    <a href="/" class="block [text-decoration:none]">
+    <div class="flex items-center gap-4">
+      <img src="/assets/images/front_view_tag.png"
+           alt="Logo Mon Plan Auto"
+           class="w-20 h-20 rounded-full shadow">
+      <div>
+        <h1 class="text-4xl font-bold text-mpa-orange mb-2">Mon Plan Auto</h1>
+        <p class="text-xl text-mpa-teal">Je Garde, Je Réduis, Je m'Engage</p>
+      </div>
+    </div>
+    </a>
+
+    <!-- Desktop Navigation - Visible only on desktop -->
+  <nav class="hidden md:flex items-center space-x-0 text-sm font-medium">
+  <a href="./" class="px-4 py-2 rounded hover:bg-gray-100 hover:text-mpa-orange nav-link" data-page="index">Mon Plan Auto</a>
+  <a href="./data" class="px-4 py-2 rounded hover:bg-gray-100 hover:text-mpa-orange nav-link" data-page="data">La Recherche</a>
+  <a href="./faq" class="px-4 py-2 rounded hover:bg-gray-100 hover:text-mpa-orange nav-link" data-page="faq">FAQ</a>
+</nav>
+
+<!-- Mobile Burger Menu - Visible only on mobile -->
+<details class="relative md:hidden">
+  <summary class="list-none cursor-pointer p-2 rounded hover:bg-gray-100">
+    <!-- Burger Icon -->
+    <svg class="w-8 h-8 text-mpa-orange" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+      <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+            d="M4 6h16M4 12h16M4 18h16" />
+    </svg>
+  </summary>
+
+  <!-- Dropdown Menu -->
+  <nav class="absolute right-0 mt-2 w-56 bg-white rounded-xl shadow-lg ring-1 ring-gray-200 z-50 p-2 space-y-1 text-sm font-medium">
+    <a href="./" class="block px-4 py-2 rounded hover:bg-gray-100 hover:text-mpa-orange nav-link" data-page="index">Mon Plan Auto</a>
+    <a href="./data" class="block px-4 py-2 rounded hover:bg-gray-100 hover:text-mpa-orange nav-link" data-page="data">La Recherche</a>
+    <a href="./faq" class="block px-4 py-2 rounded hover:bg-gray-100 hover:text-mpa-orange nav-link" data-page="faq">FAQ</a>
+  </nav>
+</details>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Get current page path
+    const currentPath = window.location.pathname;
+
+    // Determine which page we're on
+    let currentPage = 'index';
+    if (currentPath.includes('data')) {
+      currentPage = 'data';
+    } else if (currentPath.includes('faq')) {
+      currentPage = 'faq';
+    }
+
+    // Hide the active page link
+    const activeLinks = document.querySelectorAll(`.nav-link[data-page="${currentPage}"]`);
+    activeLinks.forEach(link => {
+      link.style.display = 'none';
+    });
+  });
+</script>
+  </div>
+</header>
