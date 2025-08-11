@@ -52,12 +52,13 @@ href="https://cae-eco.fr/la-demande-automobile-des-menages-et-des-entreprises"> 
 CAE no 
 116</a> for reference. Download the data from the links below:
 <ul class="list-disc list-inside ml-6 space-y-1">
-    <li> un
-        <a href="./assets/downloads/monplanauto_sondage_menages.zip">sondage ménage</a> (in partnership with UFC Que Choisir) ;
+    <li> a
+        <a href="./assets/downloads/monplanauto_sondage_menages.
+zip">household survey</a> (in partnership with UFC Que Choisir) ;
     </li>
     <li>
-        un <a href="./assets/downloads/monplanauto_sondage_bpi.zip">sondage 
-PME</a> (in partnership with BPI France).
+        a <a href="./assets/downloads/monplanauto_sondage_bpi.
+zip">corporate survey</a> (in partnership with BPI France).
     </li>
 </ul>
 
