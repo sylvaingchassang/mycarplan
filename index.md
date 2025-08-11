@@ -79,18 +79,12 @@ class="w-24 rounded-full">
 the ideal owner of a used combustion vehicle.</p> <br>
 
 <p><b>What does this mean?</b> If you drive less than 8,000 km per 
-year, you reduce CO2 emissions more by keeping your 
+year, you would likely reduce CO2 emissions more by keeping your 
 used combustion vehicle than by buying an electric vehicle.</p><br> 
 
 <p><b>Why?</b> Unless you scrap your combustion vehicle, 
 it will be bought by a household 
 that drives significantly more than 8,000 km per year on average. 
-<details>
-  <summary class="cursor-pointer text-mpa-slate">More details</summary>
-  The exact threshold depends on your combustion vehicle, its age, and the 
-alternative vehicle you would buy. 
-precisely.
-</details>
 </p><br>
 
   <p><b>Do you own a combustion vehicle and are considering buying an electric 
@@ -110,55 +104,31 @@ electric vehicles over buying a new combustion vehicle, which will emit CO₂ fo
 
 <!-- I Reduce -->
 
-
-  <div class="flex-1 bg-white rounded-xl shadow p-6 border-b-4 
-border-mpa-orange" id="i-reduce">
-   <div class="flex items-center mb-4">
+<!-- I Reduce -->
+<div class="flex-1 bg-white rounded-xl shadow p-6 border-b-4 border-mpa-orange" id="i-reduce">
+  <div class="flex items-center mb-4">
     <figure class="inline-block mr-4">
-      <img src="./assets/images/chilling_small.png" alt="Icon" 
-class="w-24 rounded-xl">
+      <img src="./assets/images/chilling_small.png" alt="Icon" class="w-24 rounded-xl">
     </figure>
     <h2 class="text-3xl font-bold">2. Cut</h2>
   </div>
 
-<p>
-Don't feel guilty about using a used combustion vehicle. Instead,  
-reduce your fuel consumption by 10%, starting today.</p><br>
+  <p>Don't feel guilty about using a used combustion vehicle. Instead, reduce your fuel consumption by 10%, starting today.</p>
 
-<p><b>Why?</b> By 2050, an immediate 10% reduction in 
-vehicle use across the entire fleet has a comparable effect, in 
-terms of emissions and warming, to an accelerated electrification of 
-new vehicle sales. <br><br>
+  <p><b>Why?</b> By 2050, an immediate 10% reduction in vehicle use across 
+the entire fleet has a comparable effect, in terms of GHG emissions and 
+warming, to an accelerated electrification of new vehicle sales.</p>
 
-Two reasons for this: (1) the car fleet renews slowly; (2) 
-the sooner we act, 
-the more we limit temperature rise. <br><br>
+  <p>Two reasons for this: (1) the car fleet renews slowly; (2) the sooner we act, the more we limit temperature rise.</p>
 
-
-  <p><strong>How to do it?</strong> Essentially by being thrifty.
-</p>
+  <p><strong>How to do it?</strong> Essentially by being thrifty.</p>
+  
   <ul class="list-disc list-inside ml-4">
-    <li>Use <a href="https://en.wikipedia.org/wiki/Energy-efficient_driving" target="_blank" rel="noopener 
-noreferrer">fuel-efficient driving</a> to consume less gas without changing 
-your trips by: driving smoothly, driving at the speed limit on highways, and 
-regularly checking your tire pressure.
-</li>
-    <li>Switch to <a 
-href="https://en.wikipedia.org/wiki/Usage-based_insurance"  
-target="_blank" rel="noopener noreferrer">usage-based insurance</a> to pay 
-more 
-attention to your 
-usage 
-over time and be rewarded for your efforts.</li>
-    <li>Give up 1 trip out of 10, by grouping your travels or by 
-using public transport, cycling or walking, once a week.
-</li>
-
+    <li>Use <a href="https://en.wikipedia.org/wiki/Energy-efficient_driving" target="_blank" rel="noopener noreferrer">fuel-efficient driving</a> to consume less gas without changing your trips by: driving smoothly, driving at the speed limit on highways, and regularly checking your tire pressure.</li>
+    <li>Switch to <a href="https://en.wikipedia.org/wiki/Usage-based_insurance" target="_blank" rel="noopener noreferrer">usage-based insurance</a> to pay more attention to your usage over time and be rewarded for your efforts.</li>
+    <li>Give up 1 trip out of 10, by grouping your travels or by using public transport, cycling or walking, once a week.</li>
   </ul>
-
-
 </div>
-
 <!-- I Commit -->
 
 
