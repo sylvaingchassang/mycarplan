@@ -1,7 +1,7 @@
-title: Mon Plan Auto
-description: La transition énergétique dans l'automobile, plus efficace, moins douloureux
+title: My Car Plan
+description: A pragmatic action plan to reduce car emissions
 baseurl: ""
-url: "https://www.monplanauto.org"
+url: "https://www.mycarplan.org"
 markdown: kramdown
 kramdown:
   input: GFM
@@ -18,4 +18,3 @@ exclude:
   - tailwind.config.js
   - postcss.config.js
   - README.md
-

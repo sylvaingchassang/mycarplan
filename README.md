@@ -1,26 +1,24 @@
-# Mon Plan Auto
+# My Car Plan
 
-Site statique Jekyll avec Tailwind CSS
+Static Jekyll site with Tailwind CSS
 
-## Installer et lancer en local
+## Install and run locally
 
-1. Installer Ruby et Bundler si nécessaire.
-2. Installer les dépendances Ruby : `bundle install`
-3. Installer NodeJS, puis installer les dépendances JS : `npm install`
-4. Générer le CSS Tailwind : `npm run build:css`
-5. Lancer le serveur Jekyll : `bundle exec jekyll serve`
-6. Accéder à [http://localhost:4000](http://localhost:4000)
+1. Install Ruby and Bundler if necessary.
+2. Install Ruby dependencies: `bundle install`
+3. Install NodeJS, then install JS dependencies: `npm install`
+4. Generate Tailwind CSS: `npm run build:css`
+5. Launch Jekyll server: `bundle exec jekyll serve`
+6. Access [http://localhost:4000](http://localhost:4000)
 
-## Déploiement GitHub Pages
+## GitHub Pages Deployment
 
-- Pousser la branche sur GitHub, activer Pages.
-- Utiliser le CSS généré dans `assets/css/main.css`.
+- Push the branch to GitHub, activate Pages.
+- Use the generated CSS in `assets/css/main.css`.
 
-## Intégrations
+## Integrations
 
-- Remplacer le code Google Analytics (`G-XXXXXXX`) par votre propre identifiant dans `_includes/footer.html`.
-- Ajouter le code d'intégration Mailchimp dans `index.md` à l'endroit indiqué.
+- Replace the Google Analytics code (`G-XXXXXXX`) with your own identifier in `_includes/footer.html`.
+- Add the Mailchimp integration code in `index.md` at the indicated location.
 
 ---
-
-

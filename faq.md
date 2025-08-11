@@ -1,103 +1,99 @@
 ---
 layout: default
-title: Mon Plan Auto | FAQ
+title: My Car Plan | FAQ
 ---
 
 <section class="my-4">
   <h4 class="text-lg font-semibold text-gray-900 mb-2">
-    Est-ce que les véhicules électriques sont vraiment plus écologiques ?
+    Are electric vehicles really more environmentally friendly?
   </h4>
   <p class="text-gray-800">
-    Globalement, oui, parce que l'électricité française a une très faible intensité carbone.
-    C'est moins clair pour une voiture électrique conduite ailleurs en Europe ou aux États-Unis,
-    où le mix électrique est plus carboné.<br>
-    Même en prenant en compte la fabrication de la batterie, une voiture électrique conduite en France
-    émettra environ la moitié des émissions de CO₂ d'une voiture thermique 
-équivalente sur son cycle de vie.<br>
-Le recyclage ou la réutilisation des batteries est encore peu testée, mais 
-leur valeur est élevée et il semble probable qu'elles soient recyclées ou 
-au moins réutilisées dans des applications stationnaires.<br>
+    Overall, yes, especially in France: because French electricity has a very low carbon intensity.
+    It's currently less clear for an electric car driven elsewhere in Europe or the United States,
+    where the electricity mix is more carbon-intensive but the growth of renewables is changing this fast.<br>
+    Even taking into account the manufacturing of the battery, an electric car driven in France
+    will emit about half the CO₂ emissions of an equivalent combustion car over its lifecycle.<br>
+    The recycling or reuse of batteries is still little tested, but 
+    their value is high and it seems likely that they will be recycled or 
+    at least reused in stationary applications.<br>
     <a href="https://www.ademe.fr/presse/communique-national/mondial-de-lautomobile-lademe-publie-son-avis-sur-le-vehicule-electrique-une-batterie-de-taille-raisonnable-assure-une-pertinence-climatique-et-economique/" target="_blank" rel="noopener noreferrer">Source ADEME</a>
   </p>
 </section>
 
 <section class="my-4">
   <h4 class="text-lg font-semibold text-gray-900 mb-2">
-    Faut-il acheter un véhicule hybride rechargeable ?
+    Should I buy a plug-in hybrid vehicle?
   </h4>
   <p class="text-gray-800">
-Cela dépend de la façon dont vous l'utilisez. Si vous rechargez la batterie 
-régulièrement, la réponse est oui, même si l'autonomie est limitée. Les 
-véhicules hybrides rechargeables ont une mauvaise réputation parce 
-que dans le passé, en raison de très fortes incitations gouvernementales, ils 
-ont été achetés par des utilisateurs opportunistes n'ayant pas
-l'intention de les recharger régulièrement. Dans ce cas de figure, le 
-surpoids des batteries rend ces véhicules encore plus polluants qu'un 
-véhicule thermique équivalent. Cela justifie d'interrompre les 
-incitations gouvernementales pour les véhicules hybrides rechargeables, 
-mais pas de les rejeter en bloc. Ils sont une bonne solution lorsqu'ils 
-sont rechargés régulièrement. 
+It depends on how you use it. If you charge the battery 
+regularly, the answer is yes, even if the range is limited. Plug-in 
+hybrid vehicles have a bad reputation because 
+in the past, due to very strong government incentives, they 
+were purchased by opportunistic users who had no
+intention of charging them regularly. In this case, the 
+extra weight of the batteries makes these vehicles even more polluting than an 
+equivalent combustion vehicle. This justifies discontinuing 
+government incentives for plug-in hybrid vehicles, 
+but not rejecting them outright. They are a good solution when they 
+are charged regularly.
 </p>
 </section>
 
 <!-- 
 <section class="my-4">
   <h4 class="text-lg font-semibold text-gray-900 mb-2">
-    Quelle appli d'éco-conduite choisir ?
+    Which eco-driving app to choose?
   </h4>
   <p class="text-gray-800 italic">
-    À compléter selon vos recommandations spécifiques.
+    To be completed according to your specific recommendations.
   </p>
 </section>
 
 <section class="my-4">
   <h4 class="text-lg font-semibold text-gray-900 mb-2">
-    Quelle est la meilleure assurance au kilomètre ?
+    What is the best pay-per-mile insurance?
   </h4>
   <p class="text-gray-800 italic">
-    À compléter selon vos recommandations spécifiques.
+    To be completed according to your specific recommendations.
   </p>
 </section>
 
 
 <section class="my-4">
   <h4 class="text-lg font-semibold text-gray-900 mb-2">
-    Est-ce que la batterie d'un véhicule électrique est recyclable ?
+    Is the battery of an electric vehicle recyclable?
   </h4>
   <p class="text-gray-800 italic">
-    À compléter selon vos recommandations spécifiques.
+    To be completed according to your specific recommendations.
   </p>
 </section>
 -->
 
 <section class="my-4">
   <h4 class="text-lg font-semibold text-gray-900 mb-2">
-    Je ne trouve pas de véhicule électrique à un prix raisonnable, que faire ?
+    I can't find an electric vehicle at a reasonable price, what should I do?
   </h4>
   <p class="text-gray-800">
-Si vous avez besoin d'acheter un véhicule mais que vous ne trouvez pas de 
-véhicule électrique à un prix raisonnable, vous avez plusieurs options pour 
-avoir un impact positif sur le climat. Si vous avez le choix, une voiture 
-d'occasion est probablement préférable à une voiture neuve. Le type du 
-véhicule dépend de vos usages. Si vous conduisez peu, vous êtes le meilleur 
-propriétaire possible pour un véhicule polluant. Si vous conduisez beaucoup,
-achetez le véhicule le moins polluant possible convenant à vos usages. Si 
-vous achetez neuf, vous pouvez diminuer vos émissions en achetant un 
-véhicule relativement petit, ou un véhicule hybride.
+If you need to buy a vehicle but can't find an 
+electric vehicle at a reasonable price, you have several options to 
+have a positive impact on the climate. If you have a choice, a used 
+car is probably preferable to a new car. The type of 
+vehicle depends on your usage. If you drive little, you are the best 
+possible owner for a polluting vehicle. If you drive a lot,
+buy the least polluting vehicle possible that suits your needs. If 
+you buy new, you can reduce your emissions by buying a 
+relatively small vehicle, or a hybrid vehicle.
 </p>
 </section>
 
 
 <section class="my-4">
   <h4 class="text-lg font-semibold text-gray-900 mb-2">
-    Est-ce que la batterie d'un véhicule d'occasion est fiable ?
+    Is the battery of a used vehicle reliable?
   </h4>
   <p class="text-gray-800">
-Globalement oui. Les données disponibles suggèrent que les batteries 
-perdent moins de 2 % de leur capacité par an. Cela signifie qu'une voiture 
-d'occasion de 5 ans aura perdu environ 10 % de son autonomie. 
+Overall, yes. Available data suggests that batteries 
+lose less than 2% of their capacity per year. This means that a 5-year-old 
+used car will have lost about 10% of its range.
 </p>
 </section>
-
-
-
