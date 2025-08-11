@@ -49,7 +49,7 @@ and public finances. <br><br>
 
 <b>To learn more:</b>
 Check out our [research and data](./data){:target="_blank" 
-rel="noopener noreferrer" } or the [FAQ](./faq_fr){:target="_blank" 
+rel="noopener noreferrer" } or the [FAQ](./faq){:target="_blank" 
 rel="noopener noreferrer" }.<br><br>
 
 <b>Coverage:</b> <a href="https://www.lemonde.fr/economie/article/2025/07/01/le-grand-plongeon-du-marche-automobile-francais_6617223_3234.html">Le Monde</a>, 
