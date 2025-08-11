@@ -183,5 +183,10 @@ If you agree, we will send you a link to share with those of
 your contacts who might be interested, and to initiate a conversation.
 <br><br>
 
+<b>Ready to Make an Impact?</b>
+Take a moment to fill out our short form below and share your commitments 
+with us.
+
+
 {% include brevo.html %}
 </div>
